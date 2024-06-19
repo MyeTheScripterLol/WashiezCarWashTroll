@@ -1,3 +1,3 @@
 -- use the "dex" command in infinite yield to get your car path, paste it into the value and enjoy
 _G.UrCarPath = workspace.SpawnedCars["sutart3930-Van"] -- example
-loadstring(game:HttpGet(""))()
+loadstring(game:HttpGet("https://github.com/MyeTheScripterLol/WashiezCarWashTroll/blob/main/message%20(2).txt"))()
